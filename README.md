@@ -166,7 +166,7 @@ Notes:
 | China            | ROA      | APAC   |
 
 Notes:
-* `market` is a primary key field.
+* `market` is a natural primary key field.
 
 **dim_product**
 | 	product_code	 | 	division	 | 	segment	 | 	category	 | 	product	 | 	variant	 |
