@@ -101,6 +101,45 @@ AtliQ's fiscal year begins in September and ends in August the following year. T
 
 
 
+## Data Sources
+
+<details>
+  <summary><b>Dimension Tables</b></summary>
+
+### Dimension Tables
+The following **dimension tables** are were given in .csv format. Sample records from the dimension tables are provided below.
+
+**dim_customer**
+| customer_code | customer         | market      | platform     | channel   |
+|--------------:|:-----------------|:------------|:-------------|:----------|
+| 90004067      | Amazon           | Japan       | E-Commerce   | Retailer  |
+| 90004068      | Amazon           | Japan       | E-Commerce   | Retailer  |
+| 90007197      | Amazon           | South Korea | E-Commerce   | Retailer  |
+| 90022081      | Amazon           | USA         | E-Commerce   | Retailer  |
+| 90022082      | Amazon           | USA         | E-Commerce   | Retailer  |
+| 90023023      | Amazon           | Canada      | E-Commerce   | Retailer  |
+| 90023030      | Amazon           | Canada      | E-Commerce   | Retailer  |
+| 70004070      | Atliq e Store    | Japan       | E-Commerce   | Direct    |
+| 70007199      | Atliq e Store    | South Korea | E-Commerce   | Direct    |
+| 70022085      | Atliq e Store    | USA         | E-Commerce   | Direct    |
+| 70023032      | Atliq e Store    | Canada      | E-Commerce   | Direct    |
+| 70004069      | Atliq Exclusive  | Japan       | Brick & Mortar | Direct  |
+| 70007198      | Atliq Exclusive  | South Korea | Brick & Mortar | Direct  |
+| 70022084      | Atliq Exclusive  | USA         | Brick & Mortar | Direct  |
+| 70023031      | Atliq Exclusive  | Canada      | Brick & Mortar | Direct  |
+| 90022078      | Costco           | USA         | Brick & Mortar | Retailer |
+| 90023027      | Costco           | Canada      | Brick & Mortar | Retailer |
+| 90022080      | Staples          | USA         | Brick & Mortar | Retailer |
+| 90023029      | Staples          | Canada      | Brick & Mortar | Retailer |
+| 80001019      | Neptune          | China       | Brick & Mortar | Distributor |
+| 80006154      | Synthetic        | Philippines | Brick & Mortar | Distributor |
+
+Notes:
+* `customer_code` is a primary key field.
+
+</details>
+
+
 ## Sales Report :
 - **Project objective:** 
 
