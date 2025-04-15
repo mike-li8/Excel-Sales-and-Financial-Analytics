@@ -254,6 +254,10 @@ Notes:
 | 01-10-2020 | A0118150102  | 70002017      | 275  | 3426.57          | 115.8181     | 1727.9625          |
 | 01-10-2020 | A0118150102  | 70002018      | 284  | 2991.32          | 101.1066     | 1784.514           |
 
+Notes:
+* This table contains monthly-level data on the sold quantity, net sales amount (INR), freight cost (INR), and manufacturing cost (INR) for specific products tjhat were sold to specific customers.
+* The columns `date`, `product_code`, and `customer_code` make up a **composite primary key**
+* Sales data is available for fiscal years 2018 - 2021
 
 
 </details>
