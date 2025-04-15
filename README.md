@@ -1,6 +1,9 @@
 # Excel-Sales-and-Financial-Analytics
 ## Sales Report :
 
+## Project Overview
+The [**Codebasics Data Analytics Bootcamp**](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance) exhibits a fictional company called **AtliQ Technologies**.
+
 
 - **Project objective:** 
 
