@@ -109,7 +109,7 @@ AtliQ's fiscal year begins in September and ends in August the following year. T
 ### Dimension Tables
 The following **dimension tables** are were given in .csv format. Sample records from the dimension tables are provided below.
 
-**dim_customer**
+**dim_customer.csv**
 | customer_code | customer         | market      | platform     | channel   |
 |--------------:|:-----------------|:------------|:-------------|:----------|
 | 90004067      | Amazon           | Japan       | E-Commerce   | Retailer  |
@@ -138,7 +138,7 @@ Notes:
 * `customer_code` is a primary key field.
 
 
-**dim_market**
+**dim_market.csv**
 | market           | sub_zone | region |
 |:-----------------|:---------|:-------|
 | Canada           | nan      | nan    |
@@ -168,7 +168,7 @@ Notes:
 Notes:
 * `market` is a natural primary key field.
 
-**dim_product**
+**dim_product.csv**
 | 	product_code	 | 	division	 | 	segment	 | 	category	 | 	product	 | 	variant	 |
 | 	-:	 | 	:-	 | 	:-	 | 	:-	 | 	:-	 | 	:-	 |
 | A7119160102    | N & S    | Networking | Wi fi extender         | AQ Wi Power Dx1  | Plus        |
@@ -199,9 +199,33 @@ Notes:
 * `product_code` is a primary key field.
 
 
+### Fact Tables
+The following **fact tables** are were given in .csv format. Sample records from the fact tables are provided below.
 
+**fact_sales_monthly.csv**
+| date               | product_code | customer_code | Qty  | net_sales_amount |
+|:-------------------|:-------------|:--------------|-----:|-----------------:|
+| 01-09-2019 00:00   | A0118150101  | 70002017      | 137  | 1219.35          |
+| 01-09-2019 00:00   | A0118150101  | 70002018      | 47   | 321.88           |
+| 01-09-2019 00:00   | A0118150102  | 70002017      | 122  | 1346.2           |
+| 01-09-2019 00:00   | A0118150102  | 70002018      | 24   | 238.2            |
+| 01-10-2019 00:00   | A0118150101  | 70002017      | 40   | 408.34           |
+| 01-10-2019 00:00   | A0118150101  | 70002018      | 32   | 220.56           |
+| 01-10-2019 00:00   | A0118150102  | 70002017      | 189  | 2180.02          |
+| 01-10-2019 00:00   | A0118150102  | 70002018      | 139  | 1218.23          |
+| 01-09-2020 00:00   | A0118150102  | 70002017      | 42   | 523.05           |
+| 01-09-2020 00:00   | A0118150101  | 70002017      | -248 | 2628.35          |
+| 01-09-2020 00:00   | A0118150102  | 70002018      | 91   | 915.35           |
+| 01-09-2020 00:00   | A0118150101  | 70002018      | 240  | 2127.05          |
+| 01-10-2020 00:00   | A0118150102  | 70002017      | -275 | 3426.57          |
+| 01-10-2020 00:00   | A0118150101  | 70002017      | 297  | 3224.98          |
+| 01-10-2020 00:00   | A0118150102  | 70002018      | -284 | 2991.32          |
+| 01-10-2020 00:00   | A0118150101  | 70002018      | 119  | 1038.28          |
 
-
+Notes:
+* This table contains monthly level data on the sold quantity and net sales amount (INR) of specific products sold to specific customers.
+* The columns `date`, `product_code`, and `customer_code` make up a **composite primary key**
+* Sales data is available for fiscal years 2018 - 2021
 
 
 </details>
