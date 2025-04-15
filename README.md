@@ -137,6 +137,44 @@ The following **dimension tables** are were given in .csv format. Sample records
 Notes:
 * `customer_code` is a primary key field.
 
+
+**dim_market**
+| market           | sub_zone | region |
+|:-----------------|:---------|:-------|
+| Canada           | nan      | nan    |
+| USA              | nan      | nan    |
+| United Kingdom   | NE       | EU     |
+| Austria          | NE       | EU     |
+| Sweden           | NE       | EU     |
+| Spain            | SE       | EU     |
+| Portugal         | SE       | EU     |
+| Poland           | NE       | EU     |
+| Norway           | NE       | EU     |
+| Netherlands      | NE       | EU     |
+| Italy            | SE       | EU     |
+| Germany          | NE       | EU     |
+| France           | SE       | EU     |
+| Bangladesh      | ROA      | APAC   |
+| New Zealand      | ANZ      | APAC   |
+| Australia        | ANZ      | APAC   |
+| South Korea      | ROA      | APAC   |
+| Philippines      | ROA      | APAC   |
+| Pakistan         | ROA      | APAC   |
+| Japan            | ROA      | APAC   |
+| Indonesia        | ROA      | APAC   |
+| India            | India    | APAC   |
+| China            | ROA      | APAC   |
+
+
+
+
+
+
+
+
+
+
+
 </details>
 
 
