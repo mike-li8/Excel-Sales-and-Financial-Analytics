@@ -107,7 +107,7 @@ AtliQ's fiscal year begins in September and ends in August the following year. T
   <summary><b>Dimension Tables</b></summary>
 
 ### Dimension Tables
-The following **dimension tables** are were given in .csv format. Sample records from the dimension tables are provided below.
+The following **dimension tables** were given in .csv format. Sample records from the dimension tables are provided below.
 
 **dim_customer.csv**
 | customer_code | customer         | market      | platform     | channel   |
@@ -199,8 +199,15 @@ Notes:
 * `product_code` is a primary key field.
 
 
+
+
+
+
+<details>
+  <summary><b>Fact Tables</b></summary>
+
 ### Fact Tables
-The following **fact tables** are were given in .csv format. Sample records from the fact tables are provided below.
+The following **fact tables** were given in .csv format. Sample records from the fact tables are provided below.
 
 **fact_sales_monthly.csv**
 | date               | product_code | customer_code | Qty  | net_sales_amount |
@@ -226,6 +233,7 @@ Notes:
 * This table contains monthly-level data on the sold quantity and net sales amount (INR) for specific products sold to specific customers.
 * The columns `date`, `product_code`, and `customer_code` make up a **composite primary key**
 * Sales data is available for fiscal years 2018 - 2021
+
 
 
 </details>
