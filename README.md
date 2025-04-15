@@ -236,6 +236,51 @@ Notes:
 * Sales data is available for fiscal years 2019 - 2021
 
 
+
+
+
+
+**ns_targets_2021.csv**
+| market    | date       | ns_target  |
+|-----------|------------|------------|
+| Australia | 1/9/2020   | 1382159.39 |
+| Australia | 1/10/2020  | 2451000.08 |
+| Australia | 1/11/2020  | 2459652.74 |
+| Australia | 1/12/2020  | 2742446.53 |
+| Australia | 1/1/2021   | 1729612.92 |
+| Australia | 1/2/2021   | 2231597.38 |
+| Australia | 1/3/2021   | 1459573.96 |
+| Australia | 1/4/2021   | 1441866.81 |
+| Australia | 1/5/2021   | 1915141.92 |
+| Australia | 1/6/2021   | 2079358.25 |
+| Australia | 1/7/2021   | 1879802.47 |
+| Australia | 1/8/2021   | 1431823.83 |
+| Japan     | 1/9/2020   | 715752.76  |
+| Japan     | 1/10/2020  | 722257.34  |
+| Japan     | 1/11/2020  | 1005447.89 |
+| Japan     | 1/12/2020  | 1077076.2  |
+| Japan     | 1/1/2021   | 671610.08  |
+| Japan     | 1/2/2021   | 590203.95  |
+| Japan     | 1/3/2021   | 501434.68  |
+| Japan     | 1/4/2021   | 530307.52  |
+| Japan     | 1/5/2021   | 647880.92  |
+| Japan     | 1/6/2021   | 542891.58  |
+| Japan     | 1/7/2021   | 537450.29  |
+| Japan     | 1/8/2021   | 706669.66  |
+
+Notes:
+* This table contains monthly-level net sales targets (INR) for specific markets.
+* The columns `market` and `date` make up a **composite primary key**
+* Net sales target data is available for fiscal year 2021
+
+
+
+
+
+
+
+
+
 </details>
 
 
