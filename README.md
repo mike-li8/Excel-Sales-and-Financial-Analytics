@@ -198,7 +198,7 @@ Notes:
 Notes:
 * `product_code` is a primary key field.
 
-
+</details>
 
 
 
