@@ -209,32 +209,8 @@ Notes:
 ### Fact Tables
 The following **fact tables** were given in .csv format. Sample records from the fact tables are provided below.
 
-**fact_sales_monthly.csv**
-| date               | product_code | customer_code | Qty  | net_sales_amount |
-|:-------------------|:-------------|:--------------|-----:|-----------------:|
-| 01-09-2019 00:00   | A0118150101  | 70002017      | 137  | 1219.35          |
-| 01-09-2019 00:00   | A0118150101  | 70002018      | 47   | 321.88           |
-| 01-09-2019 00:00   | A0118150102  | 70002017      | 122  | 1346.2           |
-| 01-09-2019 00:00   | A0118150102  | 70002018      | 24   | 238.2            |
-| 01-10-2019 00:00   | A0118150101  | 70002017      | 40   | 408.34           |
-| 01-10-2019 00:00   | A0118150101  | 70002018      | 32   | 220.56           |
-| 01-10-2019 00:00   | A0118150102  | 70002017      | 189  | 2180.02          |
-| 01-10-2019 00:00   | A0118150102  | 70002018      | 139  | 1218.23          |
-| 01-09-2020 00:00   | A0118150102  | 70002017      | 42   | 523.05           |
-| 01-09-2020 00:00   | A0118150101  | 70002017      | -248 | 2628.35          |
-| 01-09-2020 00:00   | A0118150102  | 70002018      | 91   | 915.35           |
-| 01-09-2020 00:00   | A0118150101  | 70002018      | 240  | 2127.05          |
-| 01-10-2020 00:00   | A0118150102  | 70002017      | -275 | 3426.57          |
-| 01-10-2020 00:00   | A0118150101  | 70002017      | 297  | 3224.98          |
-| 01-10-2020 00:00   | A0118150102  | 70002018      | -284 | 2991.32          |
-| 01-10-2020 00:00   | A0118150101  | 70002018      | 119  | 1038.28          |
 
-Notes:
-* This table contains monthly-level data on the sold quantity and net sales amount (INR) for specific products sold to specific customers.
-* The columns `date`, `product_code`, and `customer_code` make up a **composite primary key**
-* Sales data is available for fiscal years 2018 - 2021
-
-**fact_sales_monthly_with_cogs**
+**fact_sales_monthly_with_cogs.csv**
 | date       | product_code | customer_code | Qty  | net_sales_amount | freight_cost | manufacturing_cost |
 |:-----------|:-------------|:--------------|-----:|-----------------:|-------------:|-------------------:|
 | 01-09-2019 | A0118150101  | 70002017      | 137  | 1219.35          | 41.214       | 687.8359           |
