@@ -2,20 +2,11 @@
 ## Sales Report :
 
 ## Project Overview
-The [**Codebasics Data Analytics Bootcamp**](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance) exhibits a fictional company called **AtliQ Technologies**.
+The [**Codebasics Data Analytics Bootcamp**](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance) exhibits a fictional company called **AtliQ Technologies**. The objective of this project is to use **Excel** to create sales **sales reports** and **finance reports** that will enable AtliQ Technologies to make informed, data-driven decisions.
 
 
-- **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/mike-li8/Excel-Sales-and-Financial-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/mike-li8/Excel-Sales-and-Financial-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
-
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
-
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
-
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
 
@@ -110,8 +101,18 @@ AtliQ's fiscal year begins in September and ends in August the following year. T
 
 
 
+## Sales Report :
+- **Project objective:** 
 
+    **1.** Create a _[customer performance report](https://github.com/mike-li8/Excel-Sales-and-Financial-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/mike-li8/Excel-Sales-and-Financial-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
+
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+
+- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+
+- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
 
