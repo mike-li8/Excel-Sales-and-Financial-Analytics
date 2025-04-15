@@ -233,7 +233,7 @@ The following **fact tables** were given in .csv format. Sample records from the
 Notes:
 * This table contains monthly-level data on the sold quantity, net sales amount (INR), freight cost (INR), and manufacturing cost (INR) for specific products that were sold to specific customers.
 * The columns `date`, `product_code`, and `customer_code` make up a **composite primary key**
-* Sales data is available for fiscal years 2018 - 2021
+* Sales data is available for fiscal years 2019 - 2021
 
 
 </details>
