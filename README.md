@@ -223,7 +223,7 @@ The following **fact tables** are were given in .csv format. Sample records from
 | 01-10-2020 00:00   | A0118150101  | 70002018      | 119  | 1038.28          |
 
 Notes:
-* This table contains monthly level data on the sold quantity and net sales amount (INR) of specific products sold to specific customers.
+* This table contains monthly-level data on the sold quantity and net sales amount (INR) for specific products sold to specific customers.
 * The columns `date`, `product_code`, and `customer_code` make up a **composite primary key**
 * Sales data is available for fiscal years 2018 - 2021
 
