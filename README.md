@@ -312,7 +312,7 @@ The dimension and fact tables were imported into Excel using Power Query, with a
 ## Finance Reports
 [🔗 **Profit and Loss (P&L) Statement by Fiscal Year (FY2019 - FY2021)**](https://raw.githubusercontent.com/mike-li8/Excel-Sales-and-Financial-Analytics/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
 [🔗 **Profit and Loss (P&L) Statement by Month (FY2019 - FY2021)**](https://raw.githubusercontent.com/mike-li8/Excel-Sales-and-Financial-Analytics/main/P%26L%20Statement%20by%20Months.pdf)
-[🔗 **Profit and Loss (P&L) Statement by Market (FY2021)**]()
+[🔗 **Profit and Loss (P&L) Statement by Market (FY2021)**](https://raw.githubusercontent.com/mike-li8/Excel-Sales-and-Financial-Analytics/main/P%26L%20Statement%20by%20Markets.pdf)
 
 
 
