@@ -304,7 +304,7 @@ The dimension and fact tables were imported into Excel using Power Query, with a
 
 
 
-## Sales Report :
+## Sales Report
 - **Project objective:** 
 
     **1.** Create a _[customer performance report](https://github.com/mike-li8/Excel-Sales-and-Financial-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
@@ -319,7 +319,7 @@ The dimension and fact tables were imported into Excel using Power Query, with a
 
 
 
-## Finance Report :
+## Finance Report
 
 - **Project objective:** 
 
