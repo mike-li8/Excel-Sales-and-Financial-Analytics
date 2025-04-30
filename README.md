@@ -313,7 +313,7 @@ Click the links below to view PDFs of sales reports:
 
 
 ## Finance Reports
-Click the links below to view PDFs of sales reports:
+Click the links below to view PDFs of finance reports:
 
 [🔗 **Profit and Loss (P&L) Statement by Fiscal Year (FY2019 - FY2021)**](https://raw.githubusercontent.com/mike-li8/Excel-Sales-and-Financial-Analytics/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
 
