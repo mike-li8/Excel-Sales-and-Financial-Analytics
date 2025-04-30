@@ -292,7 +292,7 @@ Notes:
   <summary><b>Generating the Reports in Excel</b></summary>
 The dimension and fact tables were imported into Excel using Power Query, with an additional dim_date table created within Power Query. The data was then loaded into the Power Pivot data model, where relationships between the tables were defined. KPIs such as net sales were calculated using DAX measures within Power Pivot. Finally, PivotTables were used to build the sales and finance reports.
 
-![image alt](https://github.com/mike-li8/Excel-Sales-and-Financial-Analytics/blob/3f8a08e854f6c3f044201ccded3989f4dfa91f44/Power%20Pivot%20Data%20Model.PNG)
+![Power Pivot Data Model](https://raw.githubusercontent.com/mike-li8/Excel-Sales-and-Financial-Analytics/refs/heads/main/Power%20Pivot%20Data%20Model.PNG)
 </details>
 
 
