@@ -304,8 +304,19 @@ The dimension and fact tables were imported into Excel using Power Query, with a
 
 
 
-## Sales Report
-- **Project objective:** 
+## Sales Reports
+[🔗 **Net Sales Performance by Customer (FY2019 - FY2021)**]()
+[🔗 **FY2021 Net Sales Performance by Market: Actual vs Target**]()
+
+
+## Finance Reports
+[🔗 **Profit and Loss (P&L) Statement by Fiscal Year (FY2019 - FY2021)**]()
+[🔗 **Profit and Loss (P&L) Statement by Month (FY2019 - FY2021)**]()
+[🔗 **Profit and Loss (P&L) Statement by Market (FY2021)**]()
+
+
+
+- **Project objective:**
 
     **1.** Create a _[customer performance report](https://github.com/mike-li8/Excel-Sales-and-Financial-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
 
