@@ -1,7 +1,7 @@
 # Excel-Sales-and-Financial-Analytics
 
 ## Project Overview
-The [**Codebasics Data Analytics Bootcamp**](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance) exhibits a fictional company called **AtliQ Technologies**. The objective of this project is to use **Excel** to create sales **sales reports** and **finance reports** that will enable AtliQ Technologies to make informed, data-driven decisions.
+The [**Codebasics Data Analytics Bootcamp**](https://codebasics.io/bootcamps/data-analytics-bootcamp-with-practical-job-assistance) exhibits a fictional company called **AtliQ Technologies**. The objective of this project is to use **Excel** to generate 2 **sales reports** and 3 **finance reports** that will enable AtliQ Technologies to make informed, data-driven decisions.
 
 
 ## AtliQ Technologies Business Model
